@@ -1,0 +1,9 @@
+
+#header{
+    margin: 3rem;
+}
+
+.container > .input-group{
+    width: fit-content;
+
+}
